@@ -5,5 +5,7 @@ public class HelloWorld {
 		IndexController index = new IndexController();
 		
 		index.printHello();
+		
+		index.printAtt();
 	}
 }
